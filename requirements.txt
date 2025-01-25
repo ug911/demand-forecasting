@@ -1,0 +1,8 @@
+pandas
+numpy
+xgboost
+lightgbm
+prophet
+scipy
+statsmodels
+scikit-learn
